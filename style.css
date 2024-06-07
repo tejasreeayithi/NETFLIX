@@ -1,0 +1,533 @@
+.se1 {
+    background-color: gray;
+}
+
+.teju1 {
+    font-style: initial;
+    color: rgba(255, 3, 3, 0.955);
+    margin-top: -723px;
+    margin-left: 50px;
+    font-size: xx-large;
+}
+
+.teju2 {
+    margin-left: 1140px;
+    margin-top: -55px;
+    border: 2px solid black;
+}
+
+.teju3 {
+    margin-left: 1270px;
+    margin-top: -36px;
+}
+
+.teju3 button {
+    background-color: rgba(255, 3, 3, 0.955);
+    color: white;
+    border: 2px solid rgba(255, 3, 3, 0.955);
+}
+
+.teju4 img {
+    height: 690px;
+    width: 100%;
+}
+
+.teju5 {
+    margin-left: 270px;
+    margin-top: 182px;
+    color: white;
+}
+
+.teju5 p {
+    font-size: 60px;
+}
+
+.teju5 h3 {
+    margin-left: 280px;
+    font-size: 30px;
+    margin-top: -50px;
+}
+
+.teju5 h2 {
+    margin-left: 56px;
+}
+
+.teju5 h4 {
+    margin-left: 280px;
+    font-size: 15px;
+    margin-top: -30px;
+}
+
+.teju6 {
+    margin-left: 525px;
+    font-size: 20px;
+}
+
+.teju7 {
+    margin-left: 850px;
+    margin-top: -43px;
+}
+
+.teju7 button {
+    background-color: rgba(255, 3, 3, 0.955);
+    border: 2px solid rgba(255, 3, 3, 0.955);
+    color: white;
+    height: 42px;
+    width: 130px;
+}
+
+.teju6 input {
+    height: 40px;
+    width: 310px;
+    background-color: transparent;
+    color: black;
+}
+
+.teju2 select {
+    height: 35px;
+    width: 110px;
+}
+
+.teju3 button {
+    height: 34px;
+    width: 80px;
+}
+
+.sec2 {
+    border: 2px solid black;
+    height: 400px;
+    width: 100%;
+    margin-top: 245px;
+    background-color: black;
+}
+
+.teju8 img {
+    height: 300px;
+    width: 400px;
+    left: 1000px;
+    top: -0px;
+    position: relative;
+    z-index: 100;
+
+}
+
+.teju8 video {
+    position: absolute;
+    margin-left: 350px;
+    margin-top: 70px;
+    height: 150px;
+    width: 900px;
+}
+
+.teju9 {
+    color: white;
+    margin-top: -206px;
+    margin-left: 267px;
+}
+
+.sec3 {
+    border: 2px solid black;
+    height: 400px;
+    width: 100%;
+    margin-top: 1px;
+    background-color: black;
+}
+
+.teju10 img {
+    height: 300px;
+    width: 300px;
+    left: 970px;
+    top: 10px;
+    border: 2px solid rgb(13, 13, 34);
+    position: relative;
+    z-index: 100px;
+    border-radius: 40px;
+}
+
+.teju-10 img {
+    position: absolute;
+    top: 1200px;
+    height: 300px;
+    width: 300px;
+    left: 1190px;
+    border-radius: 40px;
+}
+
+.tejuu-10 {
+    border: 2px solid rgb(2, 2, 74);
+    height: 70px;
+    width: 300px;
+    margin-left: 870px;
+    margin-top: 12px;
+    color: white;
+}
+
+.tejuu-10 h3 {
+    margin-top: -55px;
+    margin-left: 114px;
+}
+
+.tejuu-10 h4 {
+    color: rgb(12, 12, 239);
+    margin-top: -17px;
+    margin-left: 117px;
+}
+
+.tejuu10 img {
+    margin-top: 6px;
+    height: 59px;
+    margin-left: 8PX;
+    width: 100px;
+}
+
+.teju11 {
+    color: white;
+    margin-top: -256px;
+    margin-left: 267px;
+}
+
+.sec4 {
+    border: 2px solid black;
+    height: 400px;
+    width: 100%;
+    margin-top: 2px;
+    background-color: black;
+}
+
+.teju12 img {
+    height: 300px;
+    width: 500px;
+    margin-left: 900px;
+    margin-top: 50px;
+    position: relative;
+    z-index: 100px;
+}
+
+.teju-12 p {
+    border: 1px solid whitesmoke;
+    height: 20px;
+    width: 290px;
+    border-radius: 5px;
+    color: whitesmoke;
+}
+
+.teju-12 {
+    margin-left: 1000px;
+    margin-top: -250px;
+    position: absolute;
+}
+
+.tejuu12 img {
+    height: 110px;
+    width: 270px;
+    margin-top: -200px;
+    margin-left: 990px;
+    position: absolute;
+}
+
+.teju13 {
+    color: white;
+    margin-top: -236px;
+    margin-left: 267px;
+}
+
+.sec5 {
+    border: 2px solid black;
+    height: 400px;
+    width: 100%;
+    margin-top: 2px;
+    background-color: black;
+}
+
+.teju14 {
+
+    margin-left: 800px;
+    margin-top: 50px;
+}
+
+.teju15 {
+    color: white;
+    margin-top: -256px;
+    margin-left: 267px;
+}
+
+.sec6 {
+    border: 2px solid black;
+    height: 400px;
+    width: 100%;
+    margin-top: 2px;
+    background-color: black;
+}
+
+.teju16 img {
+    height: 300px;
+    width: 500px;
+    margin-left: 900px;
+    margin-top: 50px;
+    border: 2px solid rgb(13, 13, 34);
+    position: absolute;
+
+}
+
+.teju-16 img {
+    position: relative;
+    z-index: 100;
+    margin-top: 230px;
+    margin-left: 800px;
+    height: 150px;
+    width: 320px;
+}
+
+.teju17 {
+    color: white;
+    margin-top: -256px;
+    margin-left: 267px;
+}
+
+.sec7 {
+    border: 2px solid black;
+    height: 400px;
+    width: 100%;
+    margin-top: 2px;
+    background-color: black;
+}
+
+.teju18 img {
+    height: 300px;
+    width: 500px;
+    margin-left: 900px;
+    margin-top: 50px;
+    border: 2px solid rgb(13, 13, 34);
+}
+
+.teju19 {
+    color: white;
+    margin-top: -256px;
+    margin-left: 267px;
+}
+
+.sec8 {
+    border: 2px solid black;
+    height: 400px;
+    width: 100%;
+    margin-top: 2px;
+    background-color: black;
+}
+
+.teju20 img {
+    height: 300px;
+    width: 500px;
+    margin-left: 900px;
+    margin-top: 50px;
+    border: 2px solid rgb(13, 13, 34);
+}
+
+.teju21 {
+    color: white;
+    margin-top: -256px;
+    margin-left: 267px;
+}
+
+.sec9 {
+    border: 2px solid black;
+    height: 600px;
+    width: 100%;
+    margin-top: 2px;
+    background-color: black;
+}
+
+.teju22 {
+    color: white;
+}
+
+.teju23 {
+    border: 2px solid rgb(45, 45, 45);
+    background-color: rgb(32, 32, 32);
+    color: white;
+    display: flex;
+    width: 800px;
+    margin-left: 350px;
+}
+
+.teju23 span {
+    margin-left: 655px;
+    margin-top: 14px;
+}
+
+.teju23 p {
+    margin-left: 9px;
+}
+
+.teju24 {
+    border: 2px solid rgb(45, 45, 45);
+    background-color: rgb(32, 32, 32);
+    color: white;
+    display: flex;
+    width: 800px;
+    margin-left: 350px;
+    margin-top: -12px;
+}
+
+.teju24 p {
+    margin-left: 9px;
+}
+
+.teju24 span {
+    margin-left: 570px;
+    margin-top: 14px;
+}
+
+.teju25 {
+    border: 2px solid rgb(45, 45, 45);
+    background-color: rgb(32, 32, 32);
+    color: white;
+    display: flex;
+    width: 800px;
+    margin-left: 350px;
+    margin-top: -12px;
+}
+
+.teju25 p {
+    margin-left: 9px;
+}
+
+.teju25 span {
+    margin-left: 633px;
+    margin-top: 14px;
+}
+
+.teju26 {
+    border: 2px solid rgb(45, 45, 45);
+    background-color: rgb(32, 32, 32);
+    color: white;
+    display: flex;
+    width: 800px;
+    margin-left: 350px;
+    margin-top: -12px;
+}
+
+.teju26 p {
+    margin-left: 9px;
+}
+
+.teju26 span {
+    margin-left: 650px;
+    margin-top: 14px;
+}
+
+.teju27 {
+    border: 2px solid rgb(45, 45, 45);
+    background-color: rgb(32, 32, 32);
+    color: white;
+    display: flex;
+    width: 800px;
+    margin-left: 350px;
+    margin-top: -12px;
+}
+
+.teju27 p {
+    margin-left: 9px;
+}
+
+.teju27 span {
+    margin-left: 573px;
+    margin-top: 14px;
+}
+
+.teju28 {
+    border: 2px solid rgb(45, 45, 45);
+    background-color: rgb(32, 32, 32);
+    color: white;
+    display: flex;
+    width: 800px;
+    margin-left: 350px;
+    margin-top: -12px;
+}
+
+.teju28 p {
+    margin-left: 9px;
+}
+
+.teju28 span {
+    margin-left: 603px;
+    margin-top: 14px;
+}
+
+.teju29 {
+    color: white;
+    font-size: large;
+}
+
+.teju31 button {
+    background-color: rgba(255, 3, 3, 0.955);
+    border: 2px solid rgba(255, 3, 3, 0.955);
+    color: white;
+    height: 35px;
+    width: 110px;
+}
+
+.teju30 input {
+    height: 30px;
+    width: 270px;
+    background-color: transparent;
+    color: black;
+}
+
+.teju30 {
+    margin-left: 530px;
+}
+
+.teju31 {
+    margin-left: 819px;
+    margin-top: -34px;
+}
+
+.sec10 {
+    border: 2px solid black;
+    height: 200px;
+    width: 100%;
+    margin-top: 2px;
+    background-color: black;
+    
+}
+
+.sec10 {
+    color: white;
+    
+}
+.sec10 footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.teju32 ul {
+    list-style-type: none;
+}
+
+.teju33 ul {
+    list-style-type: none;
+}
+
+.teju34 ul {
+    list-style-type: none;
+}
+
+.teju35 ul {
+    list-style-type: none;
+}
+.teju35{
+    margin-right: 20px;
+}
+.se10{
+    margin-top: -69px;
+    margin-left: 20px;
+}
+.sec11{
+    margin-top:10px;
+    margin-left: 29px;
+    
+}
+.teju37 h4{
+    color: white;
+}
